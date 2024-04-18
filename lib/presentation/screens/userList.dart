@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../screens/Profile.dart'; // Import your ProfilePage file
+import '../screens/Profile.dart';
 import 'adminDashboard.dart';
 import '../widgets/HamburgerMenu.dart'; 
 import '../widgets/logout_dialog.dart';
@@ -16,18 +16,18 @@ void main() {
 }
 class UserList extends StatelessWidget {
   final List<String> pages = ['Dashboard', 'User List', 'Profile'];
-  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>(); // Add GlobalKey
+  final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>(); 
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      key: _scaffoldKey, // Assign GlobalKey to Scaffold
+      key: _scaffoldKey, 
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 166, 70, 183),
         leading: IconButton(
           icon: Icon(Icons.menu, color: Colors.white),
           onPressed: () {
-            _scaffoldKey.currentState!.openDrawer(); // Use GlobalKey to access ScaffoldState
+            _scaffoldKey.currentState!.openDrawer();
           },
         ),
         title: Row(

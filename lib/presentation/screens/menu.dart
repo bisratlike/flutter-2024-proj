@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import './userProfile.dart';
 import 'userDashboard.dart';
-import '../screens/LoginPage.dart'; // Import the new login screen widget
+import '../screens/LoginPage.dart'; 
 
-import '../widgets/logout_dialog.dart'; // Import the new hamburger menu widget
+import '../widgets/logout_dialog.dart'; 
 
 void main() => runApp(const MenuApp());
 
@@ -24,7 +24,7 @@ class MenuApp extends StatelessWidget {
         if (settings.name == '/login') {
           return MaterialPageRoute(builder: (context) => LoginScreen());
         }
-        // Handle other routes here if needed
+       
       },
     );
   }
@@ -55,11 +55,11 @@ class Menu extends StatelessWidget {
                   fontSize: 24,
                 ),
               ),
-              accountEmail: null, // You can remove this line if not needed
+              accountEmail: null, 
               currentAccountPicture: CircleAvatar(
                 backgroundColor: Colors.white,
                 child: Image.asset(
-                  'assets/images/logo.png', // Replace 'assets/logo.png' with your logo image path
+                  'assets/images/logo.png', 
                   height: 36,
                   width: 36,
                 ),
@@ -100,7 +100,7 @@ void _showLogoutConfirmationDialog(BuildContext context) {
   showDialog(
     context: context,
     builder: (BuildContext context) {
-      return LogoutDialog(); // Display the LogoutDialog
+      return LogoutDialog(); 
     },
   );
 }
@@ -114,7 +114,7 @@ class MenuList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
-      itemCount: 4, // Change this to the number of menu items
+      itemCount: 4, 
       itemBuilder: (BuildContext context, int index) {
         return buildMenuItem(context, index);
       },

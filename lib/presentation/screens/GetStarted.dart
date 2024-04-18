@@ -68,7 +68,7 @@ class HomeScreen extends StatelessWidget {
               right: 0, // Adjust the right position of the circle
               child: Center(
                 child: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 300.0), // Add padding to the circle
+                  padding: const EdgeInsets.symmetric(vertical: 300.0), 
                   child: CircleAvatar(
                     radius: 50,
                     backgroundImage: AssetImage('assets/images/th.jpg'),
@@ -77,12 +77,12 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             Positioned(
-              left: 0, // Adjust the left position of the circle
+              left: 0, 
               top: 0,
-              right: 230, // Adjust the right position of the circle
+              right: 230,
               child: Center(
                 child: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 300.0), // Add padding to the circle
+                  padding: const EdgeInsets.symmetric(vertical: 300.0), 
                   child: CircleAvatar(
                     radius: 50,
                     backgroundImage: AssetImage('assets/images/th (2).jpg'),
@@ -91,12 +91,12 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             Positioned(
-              left: 20, // Adjust the left position of the circle
+              left: 20, 
               top: 0,
-              right: 20, // Adjust the right position of the circle
+              right: 20, 
               child: Center(
                 child: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 400.0), // Add padding to the circle
+                  padding: const EdgeInsets.symmetric(vertical: 400.0), 
                   child: CircleAvatar(
                     radius: 70,
                     backgroundImage: AssetImage('assets/images/th (1).jpg'),
@@ -105,12 +105,12 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             Positioned(
-              left: 0, // Adjust the left position of the circle
+              left: 0, 
               top: 0,
-              right: 290, // Adjust the right position of the circle
+              right: 290, 
               child: Center(
                 child: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 450.0), // Add padding to the circle
+                  padding: const EdgeInsets.symmetric(vertical: 450.0), 
                   child: CircleAvatar(
                     radius: 50,
                     backgroundImage: AssetImage('assets/images/th (4).jpg'),
@@ -119,12 +119,12 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             Positioned(
-              left: 300, // Adjust the left position of the circle
+              left: 300, 
               top: 0,
-              right: 0, // Adjust the right position of the circle
+              right: 0, 
               child: Center(
                 child: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 480.0), // Add padding to the circle
+                  padding: const EdgeInsets.symmetric(vertical: 480.0), 
                   child: CircleAvatar(
                     radius: 50,
                     backgroundImage: AssetImage('assets/images/th (5).jpg'),
@@ -133,12 +133,12 @@ class HomeScreen extends StatelessWidget {
               ),
             ),
             Positioned(
-              left: 0, // Adjust the left position of the circle
+              left: 0,
               top: 0,
-              right: 100, // Adjust the right position of the circle
+              right: 100, 
               child: Center(
                 child: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 560.0), // Add padding to the circle
+                  padding: const EdgeInsets.symmetric(vertical: 560.0), 
                   child: CircleAvatar(
                     radius: 50,
                     backgroundImage: AssetImage('assets/images/th (3).jpg'),
@@ -146,7 +146,7 @@ class HomeScreen extends StatelessWidget {
                 ),
               ),
             ),
-            // Add other Positioned CircleAvatars here...
+         
 
             Positioned(
               bottom: 30,

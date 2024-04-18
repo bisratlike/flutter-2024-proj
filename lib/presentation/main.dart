@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import './screens/GetStarted.dart'; // Import the GetStarted page file
+import './screens/GetStarted.dart'; 
 
 void main() {
   runApp(MaterialApp(
-    home: HomeScreen(), // Set GetStartedPage as the home widget
+    home: HomeScreen(),
   ));
 }

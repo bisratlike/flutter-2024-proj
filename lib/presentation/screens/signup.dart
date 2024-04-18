@@ -98,7 +98,7 @@ class _SignupScreenState extends State<SignupScreen> {
                         if (value == null || value.isEmpty) {
                           return 'Please enter your email';
                         }
-                        // Add email validation logic here if needed
+                        
                         return null;
                       },
                     ),
@@ -122,7 +122,7 @@ class _SignupScreenState extends State<SignupScreen> {
                         if (value == null || value.isEmpty) {
                           return 'Please enter a password';
                         }
-                        // Add password validation logic here if needed
+                        
                         return null;
                       },
                     ),
@@ -158,12 +158,11 @@ class _SignupScreenState extends State<SignupScreen> {
                     child: ElevatedButton(
                       onPressed: () {
                         if (_formKey.currentState!.validate()) {
-                          // All fields are valid, proceed with sign-up logic
+                          
                           String name = _nameController.text;
                           String email = _emailController.text;
                           String password = _passwordController.text;
-                          // Add sign-up logic here (e.g., API call, database operation)
-                          // Navigate to the next screen or show a success message
+                        
                           ScaffoldMessenger.of(context).showSnackBar(
                             SnackBar(
                               content: Text('Sign up successful!'),
