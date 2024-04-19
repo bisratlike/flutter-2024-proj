@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../screens/Profile.dart'; // Import your ProfilePage file
-import '../screens/Dashboard.dart';
+import 'adminDashboard.dart';
 import '../widgets/HamburgerMenu.dart'; 
 import '../widgets/logout_dialog.dart';
 
