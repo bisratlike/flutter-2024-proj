@@ -39,9 +39,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.6",
+      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     },
     {
       "name": "fake_async",
@@ -87,9 +87,9 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.17",
+      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.19",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_test",
@@ -123,9 +123,9 @@
     },
     {
       "name": "image_picker_android",
-      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_android-0.8.9+5",
+      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_android-0.8.10",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "image_picker_for_web",
@@ -135,9 +135,9 @@
     },
     {
       "name": "image_picker_ios",
-      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_ios-0.8.9+2",
+      "rootUri": "file:///C:/Users/Lamrot/AppData/Local/Pub/Cache/hosted/pub.dev/image_picker_ios-0.8.10",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "image_picker_linux",
@@ -296,7 +296,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-04-20T21:03:59.992163Z",
+  "generated": "2024-04-20T22:18:00.181720Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
