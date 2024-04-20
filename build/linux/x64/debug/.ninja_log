@@ -1,0 +1,56 @@
+# ninja log v5
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	831ff91f9962a768
+10210	10698	1713637210139470066	plugins/file_selector_linux/CMakeFiles/file_selector_linux_plugin.dir/file_selector_plugin.cc.o	4ca0b414901b1d81
+4	3409	0	flutter/_phony_	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_engine.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	831ff91f9962a768
+3409	3822	1713638876920377024	CMakeFiles/one.dir/flutter/generated_plugin_registrant.cc.o	7572422c85cfc89a
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	831ff91f9962a768
+4008	4206	0	CMakeFiles/install.util	f1149814ff5e6f2d
+3856	4007	1713638877108365529	intermediates_do_not_run/one	165d1d32b4e70010
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/libflutter_linux_gtk.so	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	831ff91f9962a768
+9241	9637	1713604554620421507	CMakeFiles/one.dir/main.cc.o	944de65a7cb7ce7a
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_value.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_view.h	831ff91f9962a768
+4	3409	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	831ff91f9962a768
+10698	10824	1713637210267466656	plugins/file_selector_linux/libfile_selector_linux_plugin.so	68a24d88b43de1e8
+3409	3855	1713638876952375058	CMakeFiles/one.dir/my_application.cc.o	a43e404fb97feefa
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/libflutter_linux_gtk.so	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_engine.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_value.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/fl_view.h	831ff91f9962a768
+4	3420	0	/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	831ff91f9962a768
+4	3420	0	flutter/_phony_	831ff91f9962a768
+3422	3839	1713639021080024036	CMakeFiles/one.dir/flutter/generated_plugin_registrant.cc.o	7572422c85cfc89a
+3421	3874	1713639021112023897	CMakeFiles/one.dir/my_application.cc.o	a43e404fb97feefa
+3875	4029	1713639021272023200	intermediates_do_not_run/one	165d1d32b4e70010
+4029	4249	0	CMakeFiles/install.util	f1149814ff5e6f2d

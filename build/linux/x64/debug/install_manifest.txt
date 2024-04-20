@@ -1,0 +1,17 @@
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/one
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.png
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/images/th.jpg
+/home/user/Desktop/3 rd year semester 2/mobile/Users Pages/one/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
