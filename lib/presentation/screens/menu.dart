@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'userProfile.dart';
+import '../screens/userProfile.dart';
 import 'userDashboard.dart';
-import 'LoginPage.dart'; // Import the new login screen widget
+import '../screens/LoginPage.dart'; // Import the new login screen widget
 
 import '../widgets/logout_dialog.dart'; // Import the new hamburger menu widget
 
@@ -93,7 +93,7 @@ class Menu extends StatelessWidget {
     );
   }
 
-// Somewhere in your code where you want to trigger the logout dialog
+
 
 
 void _showLogoutConfirmationDialog(BuildContext context) {
