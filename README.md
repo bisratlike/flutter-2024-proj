@@ -8,20 +8,25 @@ Features
 This project is a starting point for a Flutter application.
 
 
--Authentication
+Authentication
 A few resources to get you started if this is your first Flutter project:
-    Users can log in securely using their credentials. The system verifies the user's signup status and role before granting access to specific pages.
+
+Users can log in securely using their credentials. The system verifies the user's signup status and role before granting access to specific pages.
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
     Authorization
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-    Two types of users are supported: admin and volunteers. Admins have the authority to manage volunteers and volunteer opportunities,              including adding another admin.
+
+
+  Two types of users are supported: admin and volunteers. Admins have the authority to manage volunteers and volunteer opportunities,              including adding another admin.
 
                
 For help getting started with Flutter development, view the
     Role Assignment
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
+    
+    
     Users are assigned roles that determine their privileges within the system. Admins can add other users as admins.
 samples, guidance on mobile development, and a full API reference.
 
@@ -52,4 +57,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-            Thank you
+ Thank you
